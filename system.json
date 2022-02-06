@@ -1,11 +1,11 @@
 {
-  "name": "boilerplate",
-  "title": "Boilerplate",
-  "description": "The Boilerplate system for FoundryVTT!",
-  "version": "1.1.1",
+  "name": "wod-v20",
+  "title": "Vampire 20th Aniversary",
+  "description": "Unofficial adaptation of Old World of Darknes: Vampire the Masquerade 20th aniversary edition ttrpg.",
+  "version": "0.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "9",
-  "author": "Asacolips",
+  "author": "Rafa",
   "esmodules": ["module/boilerplate.mjs"],
   "styles": ["css/boilerplate.css"],
   "scripts": [],
@@ -21,8 +21,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/Rafriki1963/foundryvtt-v20",
+  "manifest": "https://raw.githubusercontent.com/Rafriki1963/foundryvtt-v20/main/system.json",
+  "download": "https://github.com/Rafriki1963/foundryvtt-v20/archive/refs/heads/main.zip",
   "license": "LICENSE.txt"
 }
